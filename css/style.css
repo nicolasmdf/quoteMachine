@@ -1,0 +1,30 @@
+html {
+  background-color: #ffb566;
+}
+main {
+  background-color: #ffb566;
+}
+#textBox {
+  text-align: center;
+  float: right;
+  font-size: 350%;
+  font-family: Lato;
+  margin-top: 5%;
+  color: #000000;
+  font-style: italic;
+}
+.btn {
+  width: 25%;
+  align: center;
+  float: center;
+  margin: 0 25% 0 37%;
+}
+
+#nextQuote {
+  background-color: #000000;
+  border-color: #000000;
+}
+
+#nextQuote:hover {
+  opacity: 0.8;
+  }
