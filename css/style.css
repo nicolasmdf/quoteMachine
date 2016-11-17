@@ -18,6 +18,12 @@ html, main {
   right: 0;
   width: 30%;
 }
+.btn {
+  width: 25%;
+  align: center;
+  float: center;
+  margin: 0 25% 0 37%;
+}
 #nextQuote {
   background-color: #000000;
   border-color: #000000;
